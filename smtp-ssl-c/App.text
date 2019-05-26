@@ -1,0 +1,13 @@
+HOST:smtp.gmail.com
+PORT:465
+SSLI:TRUE
+TLSI:FALSE
+USER:youremail@gmail.com
+PASS:yourpass
+FROM:youremail@gmail.com
+RCPT:recipient@yahoo.com
+SUBJ:SMTP APP test
+CONT:Marijus tests the app
+
+// PORTS:
+// 	SSL:465 - set SSLI to TRUE
